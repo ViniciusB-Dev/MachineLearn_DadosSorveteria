@@ -81,4 +81,4 @@ Fique à vontade para abrir **issues** e enviar **pull requests** para melhorar 
 
 ---
 
-**Desenvolvido por [Seu Nome](https://github.com/seu-usuario)** 🚀
+**Desenvolvido por [vinicius barbosa](https://github.com/ViniciusB-Dev)** 🚀
