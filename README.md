@@ -1,7 +1,7 @@
 # 🍦 Prevendo Vendas de Sorvetes com Machine Learning
 
 ## 📖 Introdução
-A sorveteria **Gelato Mágico** está localizada em uma cidade litorânea e percebeu que a quantidade de sorvetes vendidos diariamente tem forte relação com a temperatura ambiente. Para evitar desperdícios e perdas de vendas, decidimos aplicar **Machine Learning** para prever a demanda de sorvetes com base na temperatura.
+TREINAMENTO de DADOS COM MACHINE LEARN
 
 ## 🎯 Objetivo
 O objetivo deste projeto é desenvolver um modelo de **regressão preditiva** que permita:
